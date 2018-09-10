@@ -3,7 +3,7 @@
 ## Prologue
 
 Thank you to R2CON team for having me a chance to present these slides in R2CON2018,
-thank's to @trufae, @xvilka (where was @zlowram?) for the time to meet you again, and to @condret, @maijin, @jvoisin, @oleavr, 
+thanks to @trufae, @xvilka (where was @zlowram?) for the time to meet you again, and to @condret, @maijin, @jvoisin, @oleavr, 
 @mrmacete, @xarkes, @wargio and @jcanto for great support to come long way from Malaga, the rest of you with a great "how do you do!".
 
 The management of R2CON2018 is very cool, it's a hacker event made by hackers, formed by hackers to the hackers, 
@@ -57,10 +57,11 @@ more details in the presentation.
 
 ## The feedback
 
-I am now available in telegram, thank's @maijin to set things up for me, and I think people know by now who my handle name is (;p). 
+I am now available in telegram, thank's @maijin to set things up for me, people know how my handle name is. 
 You can ping me there if I am online. I can not connect to telegram when I am at home due to the ISP blocking and 
-still tested fail after going back home. But I can connect it via other networks. So please ping me there to throw 
-some question about materials I wrote. You can always reach me in reddit, twitter, emails or others too if you know how to reach. I will help you in anyway I can. 
+still tested fail after going back home. But I can conect it via other networks. So please ping me there to throw 
+some question about materials I wrote. You can always reach me in reddit, twitter, emails or others too if you know how to reach. 
+I wil help you in anyway I can. 
 
 ## Some correction in presentation
 
