@@ -9,6 +9,11 @@
 
 [https://rada.re/con](https://rada.re/con)
 
+#GAMES 
+Contains most of the bins from the ctf.
+
+
+
 # CTF
 
 * Leave your write-ups at this point: Create a folder with your nickname and put the write-up inside. 
